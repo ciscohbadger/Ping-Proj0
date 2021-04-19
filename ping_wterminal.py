@@ -12,9 +12,6 @@ from colorama import Fore
 colorama.init()
 
 Window.clearcolor = (0.6, .6, .6, 0.5)
-Window.size = (360, 600)
-
-#x = (input("Enter Your Ip address separated by (,): "))
 
 
 class PingApp(App):
